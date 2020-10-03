@@ -1,5 +1,5 @@
 # pthread_rwlock
-三个线程写，5个进程读
+三个线程写，5个线程读
 
 效果：
 ---1th-----num: 0 after write: num is 1
